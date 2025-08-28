@@ -1,0 +1,4 @@
+[Fatal] [2025-08-17 16:30:54.291107] 绑定套接字错误，errno: 99，错误字符串: Cannot assign requested address
+[Fatal] [2025-08-17 16:31:00.696001] 绑定套接字错误，errno: 99，错误字符串: Cannot assign requested address
+[Fatal] [2025-08-17 16:31:09.034180] 绑定套接字错误，errno: 99，错误字符串: Cannot assign requested address
+[Fatal] [2025-08-17 16:31:19.368061] 绑定套接字错误，errno: 99，错误字符串: Cannot assign requested address
