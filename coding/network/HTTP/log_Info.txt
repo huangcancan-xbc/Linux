@@ -1,0 +1,324 @@
+[Info] [2025-08-23 17:01:17.898053] 套接字创建成功: fd=3
+[Info] [2025-08-23 17:01:17.898193] 绑定成功: 端口=2500
+[Info] [2025-08-23 17:01:17.898207] 监听成功: 队列长度=10
+[Info] [2025-08-23 17:04:23.150518] 套接字创建成功: fd=3
+[Info] [2025-08-23 17:04:23.150644] 绑定成功: 端口=2500
+[Info] [2025-08-23 17:04:23.150657] 监听成功: 队列长度=10
+[Info] [2025-08-23 17:06:50.432282] 套接字创建成功: fd=3
+[Info] [2025-08-23 17:06:50.432399] 绑定成功: 端口=8888
+[Info] [2025-08-23 17:06:50.432418] 监听成功: 队列长度=10
+[Info] [2025-08-23 17:09:20.053126] 套接字创建成功: fd=3
+[Info] [2025-08-23 17:09:20.053238] 绑定成功: 端口=8888
+[Info] [2025-08-23 17:09:20.053251] 监听成功: 队列长度=10
+[Info] [2025-08-23 17:12:06.048677] 套接字创建成功: fd=3
+[Info] [2025-08-23 17:12:06.048783] 绑定成功: 端口=2500
+[Info] [2025-08-23 17:12:06.048797] 监听成功: 队列长度=10
+[Info] [2025-08-23 17:12:10.779766] get a new connect, sockfd: 4
+[Info] [2025-08-23 17:12:11.388366] get a new connect, sockfd: 5
+[Info] [2025-08-23 22:57:57.850965] 套接字创建成功: fd=3
+[Info] [2025-08-23 22:57:57.851073] 绑定成功: 端口=2500
+[Info] [2025-08-23 22:57:57.851086] 监听成功: 队列长度=10
+[Info] [2025-08-23 22:58:39.903896] get a new connect, sockfd: 4
+[Info] [2025-08-23 22:59:26.899836] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:04:32.660908] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:04:32.983849] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:25:43.904449] 套接字创建成功: fd=3
+[Info] [2025-08-23 23:25:43.904599] 绑定成功: 端口=2500
+[Info] [2025-08-23 23:25:43.904621] 监听成功: 队列长度=10
+[Info] [2025-08-23 23:25:51.327113] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:25:51.566677] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:26:00.438371] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:26:00.575334] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:27:41.460611] 套接字创建成功: fd=3
+[Info] [2025-08-23 23:27:41.460735] 绑定成功: 端口=2500
+[Info] [2025-08-23 23:27:41.460753] 监听成功: 队列长度=10
+[Info] [2025-08-23 23:27:45.985190] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:27:46.318866] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:27:49.235633] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:27:49.451019] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:27:50.584625] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:27:50.709414] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:29:58.265758] 套接字创建成功: fd=3
+[Info] [2025-08-23 23:29:58.265884] 绑定成功: 端口=2500
+[Info] [2025-08-23 23:29:58.265905] 监听成功: 队列长度=10
+[Info] [2025-08-23 23:30:02.861497] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:02.991491] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:04.534726] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:04.674306] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:05.205710] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:05.330126] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:05.450133] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:05.578939] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:05.633696] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:05.759193] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:05.831824] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:05.963412] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:06.004714] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:06.128136] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:06.177606] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:06.302293] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:06.386465] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:06.510878] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:06.586079] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:06.712958] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:30:36.749922] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:30:36.888693] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:32:20.093701] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:32:20.292199] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:32:39.797146] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:32:39.953814] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:32:48.128417] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:32:48.257107] get a new connect, sockfd: 5
+[Info] [2025-08-23 23:39:10.986659] 套接字创建成功: fd=3
+[Info] [2025-08-23 23:39:10.986799] 绑定成功: 端口=2500
+[Info] [2025-08-23 23:39:10.986815] 监听成功: 队列长度=10
+[Info] [2025-08-23 23:39:14.695429] get a new connect, sockfd: 4
+[Info] [2025-08-23 23:39:14.937760] get a new connect, sockfd: 5
+[Info] [2025-08-24 00:20:59.871322] 套接字创建成功: fd=3
+[Info] [2025-08-24 00:20:59.871438] 绑定成功: 端口=2500
+[Info] [2025-08-24 00:20:59.871457] 监听成功: 队列长度=10
+[Info] [2025-08-24 00:21:05.183694] get a new connect, sockfd: 4
+[Info] [2025-08-24 00:22:13.091686] 套接字创建成功: fd=3
+[Info] [2025-08-24 00:22:13.091784] 绑定成功: 端口=2500
+[Info] [2025-08-24 00:22:13.091796] 监听成功: 队列长度=10
+[Info] [2025-08-24 00:22:16.091001] get a new connect, sockfd: 4
+[Info] [2025-08-24 00:43:07.426809] get a new connect, sockfd: 5
+[Info] [2025-08-24 00:43:28.199193] get a new connect, sockfd: 4
+[Info] [2025-08-24 00:46:32.808132] 套接字创建成功: fd=3
+[Info] [2025-08-24 00:46:32.808242] 绑定成功: 端口=2500
+[Info] [2025-08-24 00:46:32.808259] 监听成功: 队列长度=10
+[Info] [2025-08-24 00:46:36.003370] get a new connect, sockfd: 4
+[Info] [2025-08-24 00:46:36.279283] get a new connect, sockfd: 5
+[Info] [2025-08-24 01:00:49.282834] get a new connect, sockfd: 4
+[Info] [2025-08-24 01:00:49.549870] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:23:31.186164] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:23:31.186278] 绑定成功: 端口=2500
+[Info] [2025-08-24 22:23:31.186293] 监听成功: 队列长度=10
+[Info] [2025-08-24 22:23:48.713701] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:23:52.969919] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:24:10.593621] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:33:18.429016] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:33:18.429123] 绑定成功: 端口=2500
+[Info] [2025-08-24 22:33:18.429137] 监听成功: 队列长度=10
+[Info] [2025-08-24 22:33:24.983048] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:33:39.454917] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:34:10.948507] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:34:15.330739] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:34:20.203082] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:34:20.203203] 绑定成功: 端口=2555
+[Info] [2025-08-24 22:34:20.203216] 监听成功: 队列长度=10
+[Info] [2025-08-24 22:34:26.611132] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:34:26.914148] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:34:41.791514] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:34:41.930175] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:34:47.607160] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:35:50.017042] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:35:50.158066] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:36:22.719931] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:36:22.859210] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:36:31.577565] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:37:20.564047] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:37:20.684257] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:37:20.685087] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:37:20.821152] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:38:07.349332] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:07.461611] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:38:07.463526] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:07.556899] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:38:14.857210] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:14.960477] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:38:14.961160] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:15.071443] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:38:20.686485] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:20.789963] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:38:20.790526] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:38:20.937194] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:39:16.091579] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:39:16.195777] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:39:16.314965] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:40:03.695495] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:40:03.795088] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:40:03.891126] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:40:42.465934] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:40:42.570709] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:40:42.669876] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:41:48.483289] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:41:48.589205] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:41:48.589561] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:41:48.694206] get a new connect, sockfd: 7
+[Info] [2025-08-24 22:43:19.860236] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:43:19.978942] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:43:19.978984] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:43:20.184583] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:48:03.627783] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:03.743924] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:48:03.746063] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:03.927170] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:48:16.428852] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:16.545503] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:48:16.545616] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:16.727945] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:48:49.293967] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:49.565302] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:48:53.393600] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:48:53.661567] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:49:01.055868] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:49:30.358752] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:49:30.636281] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:49:35.334165] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:49:35.448778] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:49:35.465877] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:49:35.617167] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:49:38.372635] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:49:38.497344] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:49:38.497941] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:49:38.653698] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:50:31.419178] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:50:31.541054] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:50:31.543607] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:50:31.703368] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:51:08.555378] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:51:08.687652] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:51:08.691574] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:51:08.852643] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:52:19.827964] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:52:19.828070] 绑定成功: 端口=2500
+[Info] [2025-08-24 22:52:19.828083] 监听成功: 队列长度=10
+[Info] [2025-08-24 22:52:27.071495] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:52:27.223567] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:52:27.224550] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:52:27.390695] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:52:29.635739] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:52:29.764523] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:52:29.764644] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:52:29.925870] get a new connect, sockfd: 6
+[Info] [2025-08-24 22:52:57.302454] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:00.305809] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:11.900453] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:19.520779] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:22.750731] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:26.135795] 套接字创建成功: fd=3
+[Info] [2025-08-24 22:53:26.135930] 绑定成功: 端口=2555
+[Info] [2025-08-24 22:53:26.135945] 监听成功: 队列长度=10
+[Info] [2025-08-24 22:53:34.045777] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:53:34.191946] get a new connect, sockfd: 5
+[Info] [2025-08-24 22:53:34.193803] get a new connect, sockfd: 4
+[Info] [2025-08-24 22:53:34.402347] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:00:36.989789] 套接字创建成功: fd=3
+[Info] [2025-08-24 23:00:36.989902] 绑定成功: 端口=2500
+[Info] [2025-08-24 23:00:36.989920] 监听成功: 队列长度=10
+[Info] [2025-08-24 23:00:57.119583] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:00:57.253777] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:00:57.256360] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:00:57.461024] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:22.572265] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:22.676150] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:22.682624] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:22.851704] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:24.867514] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:24.975270] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:24.975643] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:25.146267] get a new connect, sockfd: 6
+[Info] [2025-08-24 23:01:25.588239] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:25.697157] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:25.703876] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:25.872421] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:26.270713] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:26.390613] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:26.391389] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:26.548802] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:26.619592] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:26.746195] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:26.748501] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:26.907391] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:27.014266] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:27.144347] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:27.144388] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:27.310234] get a new connect, sockfd: 6
+[Info] [2025-08-24 23:01:34.426469] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:34.549450] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:01:34.556019] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:01:34.724215] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:48:53.389558] 套接字创建成功: fd=3
+[Info] [2025-08-24 23:48:53.389681] 绑定成功: 端口=2500
+[Info] [2025-08-24 23:48:53.389700] 监听成功: 队列长度=10
+[Info] [2025-08-24 23:48:59.651109] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:08.123144] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:08.238338] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:08.241175] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:08.348148] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:29.179871] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:29.295880] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:29.297915] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:29.443308] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:35.233943] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:35.345563] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:35.347594] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:35.502896] get a new connect, sockfd: 6
+[Info] [2025-08-24 23:49:43.324165] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:43.439509] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:49:43.442178] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:49:43.547010] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:50:01.002578] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:50:01.108002] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:50:01.113546] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:50:01.216507] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:51:00.375015] 套接字创建成功: fd=3
+[Info] [2025-08-24 23:51:00.375188] 绑定成功: 端口=2500
+[Info] [2025-08-24 23:51:00.375211] 监听成功: 队列长度=10
+[Info] [2025-08-24 23:51:04.605232] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:51:04.754415] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:51:07.244771] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:51:16.351472] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:51:16.472379] get a new connect, sockfd: 4
+[Info] [2025-08-24 23:51:16.474450] get a new connect, sockfd: 5
+[Info] [2025-08-24 23:51:16.618003] get a new connect, sockfd: 6
+[Info] [2025-08-25 00:15:13.983047] 套接字创建成功: fd=3
+[Info] [2025-08-25 00:15:13.983177] 绑定成功: 端口=2500
+[Info] [2025-08-25 00:15:13.983193] 监听成功: 队列长度=10
+[Info] [2025-08-25 00:15:26.655389] get a new connect, sockfd: 4
+[Info] [2025-08-25 00:15:26.656756] get a new connect, sockfd: 5
+[Info] [2025-08-25 00:15:26.880650] get a new connect, sockfd: 6
+[Info] [2025-08-25 13:41:58.708544] 套接字创建成功: fd=3
+[Info] [2025-08-25 13:41:58.708640] 绑定成功: 端口=2500
+[Info] [2025-08-25 13:41:58.708652] 监听成功: 队列长度=10
+[Info] [2025-08-25 13:42:04.456326] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:42:04.615613] get a new connect, sockfd: 5
+[Info] [2025-08-25 13:42:04.616071] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:42:04.806461] get a new connect, sockfd: 6
+[Info] [2025-08-25 13:42:10.555689] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:42:17.741970] get a new connect, sockfd: 5
+[Info] [2025-08-25 13:42:17.887311] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:42:26.388220] get a new connect, sockfd: 5
+[Info] [2025-08-25 13:43:36.309081] 套接字创建成功: fd=3
+[Info] [2025-08-25 13:43:36.309181] 绑定成功: 端口=2500
+[Info] [2025-08-25 13:43:36.309199] 监听成功: 队列长度=10
+[Info] [2025-08-25 13:43:40.840619] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:43:40.957231] get a new connect, sockfd: 5
+[Info] [2025-08-25 13:43:40.957562] get a new connect, sockfd: 4
+[Info] [2025-08-25 13:43:41.178416] get a new connect, sockfd: 6
+[Info] [2025-08-25 13:43:56.229254] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:02:35.034792] 套接字创建成功: fd=3
+[Info] [2025-09-01 20:02:35.036005] 绑定成功: 端口=2500
+[Info] [2025-09-01 20:02:35.036033] 监听成功: 队列长度=10
+[Info] [2025-09-01 20:06:42.859061] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:06:42.859169] get a new connect, sockfd: 5
+[Info] [2025-09-01 20:06:42.860263] get a new connect, sockfd: 6
+[Info] [2025-09-01 20:06:43.380497] get a new connect, sockfd: 7
+[Info] [2025-09-01 20:24:08.239558] 套接字创建成功: fd=3
+[Info] [2025-09-01 20:24:08.239678] 绑定成功: 端口=2500
+[Info] [2025-09-01 20:24:08.239708] 监听成功: 队列长度=10
+[Info] [2025-09-01 20:24:29.656838] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:24:29.864648] get a new connect, sockfd: 5
+[Info] [2025-09-01 20:24:29.866140] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:24:32.613897] get a new connect, sockfd: 6
+[Info] [2025-09-01 20:24:36.015749] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:25:02.256615] 套接字创建成功: fd=3
+[Info] [2025-09-01 20:25:10.100590] 套接字创建成功: fd=3
+[Info] [2025-09-01 20:25:10.100741] 绑定成功: 端口=2000
+[Info] [2025-09-01 20:25:10.100758] 监听成功: 队列长度=10
+[Info] [2025-09-01 20:25:50.955052] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:25:55.793526] get a new connect, sockfd: 5
+[Info] [2025-09-01 20:25:55.982906] get a new connect, sockfd: 4
+[Info] [2025-09-01 20:25:55.983587] get a new connect, sockfd: 5
+[Info] [2025-09-01 20:25:57.112597] get a new connect, sockfd: 6
